@@ -1,5 +1,8 @@
+<div align="center">
 # Autonomous C-UAS Drone Defense: 
 Real-Time Multi-Target Tracking & Proximity-Optimized Interceptor Command
+
+</div>
 
 ## 🎯 Project Overview
 This project presents a **Counter-Unmanned Aerial System (C-UAS)** simulation written in Python, focusing on **real-time state estimation** and **optimized resource allocation** to defend a high-value asset.
